@@ -1,5 +1,7 @@
 # LLM Fine-Tuning
 ### 참고한 사이트: https://blog.sionic.ai/finetuning_llama 
+### 사용 모델: NousResearch/Llama-2-7b-chat-hf
+### 사용 데이터 세트: mlabonne/guanaco-llama2-1k
 
 LLM의 성능은 충분히 훌륭하다.
 
